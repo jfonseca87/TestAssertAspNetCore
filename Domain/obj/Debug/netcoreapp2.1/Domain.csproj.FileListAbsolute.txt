@@ -1,0 +1,11 @@
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\bin\Debug\netcoreapp2.1\Domain.runtimeconfig.json
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\bin\Debug\netcoreapp2.1\Domain.runtimeconfig.dev.json
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\JORGE-PC\source\repos\TestAssertAsp.NetCore\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
